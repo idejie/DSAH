@@ -9,12 +9,12 @@ Deep hashing methods have achieved tremendous success in cross-modal retrieval, 
 - Python: 3.x
 - other dependencies: [env.yaml](https://github.com/idejie/DSAH/blob/master/env.yaml)
 ## Run
-- Update the [setting.py](https://github.com/idejie/DSAH/blob/master/settings.py) with your `data_dir`. And change the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6), for **train** setting `False`
+- Update the [setting.py](https://github.com/idejie/DSAH/blob/master/settings.py) with your `data_dir`. And change the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6), for **train** setting it with `False`
 - run the `train.py`
   ```shell
   python train.py
   ```
- - For test, set the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6) `True`. And the model will load the `checkpoints/DATASET_CODEBIT_bit_best_epoch.pth`
+ - For test, set the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6)  with `True`. And the model will load the `checkpoints/DATASET_CODEBIT_bit_best_epoch.pth`
 ## Datasets
 For datasets, we follow [Deep Cross-Modal Hashing's Github (Jiang, CVPR 2017)](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab). You can download these datasets from:
 
