@@ -7,7 +7,7 @@ Deep hashing methods have achieved tremendous success in cross-modal retrieval, 
 ![Framework](https://github.com/idejie/pics/raw/master/WX20200627-190524.png)
 ## Requirements
 - Python: 3.x
-- other dependencies: `[env.yaml](https://github.com/idejie/DSAH/blob/master/env.yaml)`
+- other dependencies: [env.yaml](https://github.com/idejie/DSAH/blob/master/env.yaml)
 ## Datasets
 For datasets, we follow [Deep Cross-Modal Hashing's Github (Jiang, CVPR 2017)](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab). You can download these datasets from:
 
