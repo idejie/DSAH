@@ -14,7 +14,7 @@ Deep hashing methods have achieved tremendous success in cross-modal retrieval, 
   ```shell
   python train.py
   ```
- - For test, set the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6)  with `True`. And the model will load the `checkpoints/DATASET_CODEBIT_bit_best_epoch.pth`
+ - For test, set the value [` EVAL`](https://github.com/idejie/DSAH/blob/be1f3edba30015b164bc41994067a71273cbeb30/settings.py#L6)  with `True`. And the model will load the `checkpoint/DATASET_CODEBIT_bit_best_epoch.pth`
 ## Datasets
 For datasets, we follow [Deep Cross-Modal Hashing's Github (Jiang, CVPR 2017)](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab). You can download these datasets from:
 
