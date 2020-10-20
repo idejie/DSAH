@@ -1,5 +1,5 @@
 # DSAH
-> Source code of our ICMR 2020 paper "[Deep Semantic-Alignmnet Hashing for Unsupervised Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3372278.3390673)"
+> Source code of our ICMR 2020 paper "[Deep Semantic-Alignment Hashing for Unsupervised Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3372278.3390673)"
 
 ## Introduction
 
